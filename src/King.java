@@ -1,2 +1,3 @@
-public class King {
+public class King extends Senior{
+
 }
